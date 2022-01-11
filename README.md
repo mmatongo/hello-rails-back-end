@@ -5,7 +5,7 @@
 > A two repo approach to using rails and react
 ## Frontend
 
-[GitHub PR](https://github.com/mmatongo/hello-rails-front-end/pull/2)
+[GitHub PR](https://github.com/mmatongo/hello-rails-front-end/)
 
 ## Built With
 
