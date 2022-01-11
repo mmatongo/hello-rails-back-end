@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # creates the api json ouput and randomises it
 class GreetingsController < ApplicationController
   def index
